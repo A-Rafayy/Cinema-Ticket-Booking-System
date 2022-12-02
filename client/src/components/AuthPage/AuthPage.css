@@ -1,0 +1,10 @@
+.AuthPage-image{
+    object-fit: contain;
+    width: 100%;
+    height: 100vh;
+}
+.AuthPage-R1-C2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

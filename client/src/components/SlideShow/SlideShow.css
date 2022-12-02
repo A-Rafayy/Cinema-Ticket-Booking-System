@@ -1,0 +1,30 @@
+.SlideShow-div1{
+    width: 100%;
+    height: 100%;
+
+}
+.image-div1{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.image{
+    object-fit: contain;
+    /* height: 100%; */
+    width: 100%;
+    height: 450px;
+    /* background-color: red; */
+}
+.image-div2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 30px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+}
+.image-div2-h1{
+    font-size: 50px;
+    font-weight: bold;
+}

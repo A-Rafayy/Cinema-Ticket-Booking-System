@@ -1,0 +1,21 @@
+.ant-layout .ant-layout-header{
+    padding-inline: 0px;
+}
+.layout{
+    margin: 0 !important;
+    padding: 0 !important;
+    padding-inline: 0px !important;
+    background-color: green !important;
+}
+.header{
+    background-color: red;
+    margin: 0 !important;
+    padding: 0 !important;
+    padding-inline: 0px !important;
+}
+.content{
+    width: 100%;
+}
+.fgfg{
+    background-color: yellow;
+}

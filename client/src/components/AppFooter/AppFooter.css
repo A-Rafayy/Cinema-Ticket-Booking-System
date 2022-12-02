@@ -1,0 +1,13 @@
+.AppFooter-div1{
+    width: 100%;
+    height: 200px;
+    background-color:rgb(3, 9, 15);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.AppFooter-div1-h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}

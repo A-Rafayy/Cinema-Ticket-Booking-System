@@ -1,0 +1,26 @@
+.SignupForm-div1{
+    width: 70%;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+}
+.SignupForm-div2{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+.SignupForm-div2-h1{
+    font-weight: 600;
+}
+.SignupForm-Btn{
+    width: 200px;
+}
+.to-login-div{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+.to-login-div-h4{
+    margin-top: 11px;
+}

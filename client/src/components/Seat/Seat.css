@@ -1,0 +1,10 @@
+.Seat-div1{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+}

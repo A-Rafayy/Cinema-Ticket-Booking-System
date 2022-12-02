@@ -1,0 +1,29 @@
+.MovieCard-Div1{
+    width: 100%;
+    height: 300px;
+    /* background-color: blueviolet; */
+    /* padding: 20px; */
+}
+.MovieCard-Div1-R1{
+    border-radius: 10px;
+    height: 330px;
+    margin-top: 10px;
+}
+.MovieCard-Div1-R1-C1{
+    padding: 5px;
+}
+.MovieCard-image{
+    object-fit: cover;
+    height: 300px;
+}
+.MovieCard-Div1-R1-C2-div1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+.MovieCard-Div1-R1-C2-div1-h1{
+    font-size: 40px;
+    font-weight: bold;
+}
